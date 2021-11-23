@@ -48,7 +48,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Cool Feature of Your Services
+      - title: Dove siamo
         image: /images/WhatsApp Image 2020-03-30 at 19.14.34.jpeg
         image_alt: App user profile preview
         content: >-
