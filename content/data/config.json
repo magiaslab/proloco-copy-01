@@ -14,6 +14,16 @@
                 "style": "link"
             },
             {
+                "label": "Chi Siamo",
+                "url": "/Chi Siamo",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "left",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
                 "label": "Features",
                 "url": "/features",
                 "style": "link"
@@ -32,16 +42,6 @@
                 "label": "Sign Up",
                 "url": "/signup",
                 "style": "primary"
-            },
-            {
-                "label": "Chi Siamo",
-                "url": "/Chi Siamo",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "left",
-                "new_window": false,
-                "no_follow": false
             }
         ]
     },
