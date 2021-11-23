@@ -2,7 +2,10 @@
 title: >-
   REGOLAMENTO PER PARTECIPARE AL CONCORSO “COLORIAMO IL NATALE”2021 – SECONDA
   EDIZIONE -
-subtitle: lorem-ipsum
+subtitle: >-
+  Per il periodo Natalizio la ProLoco San Vincenzo indice un concorso a premi
+  allo scopo di coinvolgere l’intera cittadinanza e creare unione e
+  condivisione.
 image_alt: lorem-ipsum
 seo:
   title: ''
