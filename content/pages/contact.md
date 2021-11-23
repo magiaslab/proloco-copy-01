@@ -24,7 +24,7 @@ sections:
         default_value: Scegli
         options:
           - Informazioni su iscrizione
-          - Sponsorship
+          - Info su eventi
           - Other
       - input_type: textarea
         name: message
