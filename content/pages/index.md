@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: /images/DSC_0857 copia.jpg
+    image: /images/Logo tondo.png
     image_alt: App preview
     title: A.P.T. PROLOCO    San Vincenzo
     content: |
