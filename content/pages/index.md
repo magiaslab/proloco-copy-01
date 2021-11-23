@@ -36,10 +36,11 @@ sections:
       - title: Cosa facciamo
         image: /images/77225089_155795299119085_3840549804643975168_n.png
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >
+          Progetti, iniziative, eventi, cerchiamo di promuovere il nostro
+          territorio coadiuvando le associazioni presenti con i nostri servizi
+          per offrire ai nostri ospiti ed ai nostri cittadini un territorio
+          sempre più bello da esplorare e da vivere
         actions:
           - label: Learn More
             url: /features
