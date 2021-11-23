@@ -28,7 +28,7 @@ sections:
           - Altro
       - input_type: textarea
         name: message
-        label: Message
+        label: Messaggio
       - input_type: checkbox
         name: consent
         label: >-
