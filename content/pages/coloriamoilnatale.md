@@ -1,5 +1,7 @@
 ---
-title: Coloriamo Il Natale
+title: >-
+  REGOLAMENTO PER PARTECIPARE AL CONCORSO “COLORIAMO IL NATALE”2021 – SECONDA
+  EDIZIONE -
 subtitle: lorem-ipsum
 image_alt: lorem-ipsum
 seo:
