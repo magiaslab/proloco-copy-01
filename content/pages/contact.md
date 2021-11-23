@@ -25,7 +25,7 @@ sections:
         options:
           - Informazioni su iscrizione
           - Info su eventi
-          - Other
+          - Altro
       - input_type: textarea
         name: message
         label: Message
