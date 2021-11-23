@@ -24,11 +24,6 @@
                 "no_follow": false
             },
             {
-                "label": "Pricing",
-                "url": "/pricing",
-                "style": "link"
-            },
-            {
                 "label": "Style Guide",
                 "url": "/style-guide",
                 "style": "link"
