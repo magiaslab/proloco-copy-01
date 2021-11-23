@@ -33,7 +33,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Awesome Feature of Your Services
+      - title: Cosa facciamo
         image: /images/77225089_155795299119085_3840549804643975168_n.png
         image_alt: App users welcoming a new member
         content: >-
