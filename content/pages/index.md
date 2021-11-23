@@ -23,10 +23,9 @@ sections:
       - title: Una grande famiglia
         image: /images/logo-unpli-definitivo_alta.jpg
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          Le ProLoco in Italia promuovono il turismo e il territorio
+          coinvolgendo cittadini e associazioni in attività e progetti
         actions:
           - label: Learn More
             url: /features
