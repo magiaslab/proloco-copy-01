@@ -12,7 +12,7 @@ sections:
       - label: Scopri di più
         url: /features
         style: primary
-  - section_id: features
+  - section_id: chisiamo
     type: section_features
     background: gray
     title: Chi Siamo
