@@ -8,6 +8,7 @@ seo:
   robots: []
   extra: []
 layout: page
+image: /images/DSC_0857 copia-9d1a58ff.jpg
 ---
 ## Lorem ipsum
 
