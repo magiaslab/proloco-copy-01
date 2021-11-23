@@ -6,9 +6,8 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: A.P.T. PROLOCO    San Vincenzo
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: |
+      Benvenuto a San Vincenzo
     actions:
       - label: Learn More
         url: /features
