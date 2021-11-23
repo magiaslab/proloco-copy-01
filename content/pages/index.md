@@ -9,7 +9,7 @@ sections:
     content: |
       Benvenuto a San Vincenzo
     actions:
-      - label: Learn More
+      - label: Scopri di più
         url: /features
         style: primary
   - section_id: features
