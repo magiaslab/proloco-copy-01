@@ -17,8 +17,8 @@ sections:
     background: gray
     title: Chi Siamo
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      La ProLoco di San Vincenzo è un Associazione di Promozione Turistica
+      iscritta al registro nazione AMPLI
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
