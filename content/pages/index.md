@@ -94,7 +94,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Iscriviti e aiuta!!
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Entra nella grande famiglia delle ProLoco tantissimi vantaggi ti aspettano
     actions:
       - label: Get Started
         url: /signup
