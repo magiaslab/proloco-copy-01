@@ -51,10 +51,12 @@ sections:
       - title: Dove siamo
         image: /images/WhatsApp Image 2020-03-30 at 19.14.34.jpeg
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >
+          Siamo a San Vincenzo, perla della Costa degli Etruschi, città di mare
+          con un territorio tutto da scoprire e da vivere
+
+
+          ![](/images/400x200.png)
         actions:
           - label: Learn More
             url: /features
