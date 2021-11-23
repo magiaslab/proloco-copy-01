@@ -7,7 +7,7 @@ sections:
     image_alt: App preview
     title: PROLOCO San Vincenzo
     content: |
-      Benvenuto a San Vincenzo
+      Associazione Promozione Turistica Città di San Vincenzo
     actions:
       - label: Scopri di più
         url: /features
