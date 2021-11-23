@@ -21,7 +21,7 @@ sections:
       - input_type: select
         name: Oggetto
         label: Subject
-        default_value: Please select
+        default_value: Scegli
         options:
           - Informazioni su iscrizione
           - Sponsorship
