@@ -18,7 +18,7 @@ sections:
     title: Chi Siamo
     subtitle: >-
       La ProLoco di San Vincenzo è un Associazione di Promozione Turistica
-      iscritta al registro nazione AMPLI
+      iscritta al registro nazione UMPLI
     features:
       - title: Una grande famiglia
         image: /images/logo-unpli-definitivo_alta.jpg
