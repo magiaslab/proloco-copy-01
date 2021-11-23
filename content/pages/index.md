@@ -96,7 +96,7 @@ sections:
     title: Iscriviti e aiuta!!
     subtitle: Entra nella grande famiglia delle ProLoco tantissimi vantaggi ti aspettano
     actions:
-      - label: Get Started
+      - label: Leggi come
         url: /signup
         style: primary
   - section_id: recent-posts
