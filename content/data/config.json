@@ -15,7 +15,7 @@
             },
             {
                 "label": "Chi Siamo",
-                "url": "/Chi Siamo",
+                "url": "/about",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
