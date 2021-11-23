@@ -103,7 +103,9 @@ sections:
     title: Latest Posts
 seo:
   title: Proloco San Vincenzo
-  description: The preview of the Azimuth theme
+  description: >-
+    Associazione Promozione Turistica Città di San Vincenzo - Costa degli
+    Etruschi
   extra:
     - name: 'og:type'
       value: website
