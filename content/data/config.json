@@ -17,7 +17,7 @@
                 "label": "Chi Siamo",
                 "url": "/about",
                 "style": "link",
-                "has_icon": true,
+                "has_icon": false,
                 "icon": "envelope",
                 "icon_position": "left",
                 "new_window": false,
