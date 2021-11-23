@@ -103,7 +103,7 @@
             {
                 "type": "footer_form",
                 "title": "NewsLetters",
-                "content": "Stay up to date with our latest developments.",
+                "content": "Rimani sempre aggiornato sulle news e sugli eventi di San Vincenzo\n",
                 "form_id": "subscribeForm",
                 "hide_labels": true,
                 "form_fields": [
