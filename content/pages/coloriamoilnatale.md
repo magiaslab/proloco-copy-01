@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Coloriamo Il Natale
 subtitle: lorem-ipsum
 image_alt: lorem-ipsum
 seo:
