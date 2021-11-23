@@ -102,7 +102,7 @@ sections:
     background: gray
     title: Latest Posts
 seo:
-  title: Stackbit Azimuth Theme
+  title: Proloco San Vincenzo
   description: The preview of the Azimuth theme
   extra:
     - name: 'og:type'
