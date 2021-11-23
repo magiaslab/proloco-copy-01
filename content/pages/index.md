@@ -14,7 +14,7 @@ sections:
         style: primary
   - section_id: chisiamo
     type: section_features
-    background: gray
+    background: white
     title: Chi Siamo
     subtitle: >-
       La ProLoco di San Vincenzo è un Associazione di Promozione Turistica
