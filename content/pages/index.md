@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: /images/Logo tondo.png
     image_alt: App preview
-    title: A.P.T. PROLOCO    San Vincenzo
+    title: PROLOCO    San Vincenzo
     content: |
       Benvenuto a San Vincenzo
     actions:
