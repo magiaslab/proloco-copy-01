@@ -1,6 +1,6 @@
 ---
 title: Coloriamo il Natale
-subtitle: A story about customer loyalty
+subtitle: Un concorso per un Natale più bello e colorato
 author: content/data/authors/jane-doe.yaml
 excerpt: >-
   A story about customer loyalty curabitur sed consectetur nisi. Integer sit
