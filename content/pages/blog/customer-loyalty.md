@@ -6,7 +6,7 @@ excerpt: >-
   A story about customer loyalty curabitur sed consectetur nisi. Integer sit
   amet commodo massa.
 date: '2021-11-26'
-thumb_image: images/3_thumb.jpg
+thumb_image: /images/WhatsApp Image 2021-11-26 at 11.02.39.jpeg
 thumb_image_alt: A group of people working in a cafe
 image: images/3.jpg
 image_alt: A group of people working in a cafe
