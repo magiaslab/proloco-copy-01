@@ -6,7 +6,7 @@ excerpt: Un concorso per colorare e rendere il Natale più bello
 date: '2021-11-26'
 thumb_image: /images/a5e55a2c-e271-4fd9-a739-077fedf706b9.JPG
 thumb_image_alt: A group of people working in a cafe
-image: images/3.jpg
+image: /images/a5e55a2c-e271-4fd9-a739-077fedf706b9-33a4a186.JPG
 image_alt: A group of people working in a cafe
 seo:
   title: Customer Loyalty Programs That Stick
