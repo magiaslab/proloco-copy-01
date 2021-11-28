@@ -1,6 +1,6 @@
 ---
 title: Negozi Convenzionati
-subtitle: Tutte le
+subtitle: Tutte le attività convenz
 image_alt: lorem-ipsum
 seo:
   title: ''
