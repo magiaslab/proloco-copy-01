@@ -11,4 +11,4 @@ layout: page
 ---
 
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Y5lonGrNX0zuLt65Yb4nJMOOLbk_9l-x" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Y5lonGrNX0zuLt65Yb4nJMOOLbk_9l-x" width="720" height="680"></iframe>
