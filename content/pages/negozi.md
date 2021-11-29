@@ -11,4 +11,4 @@ layout: page
 ---
 
 
-<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/it/map/negozi-convenzionati-proloco-san-vincenzo_686350?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="//umap.openstreetmap.fr/it/map/negozi-convenzionati-proloco-san-vincenzo_686350">Visualizza a schermo intero</a></p>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Y5lonGrNX0zuLt65Yb4nJMOOLbk_9l-x" width="640" height="480"></iframe>
