@@ -42,16 +42,14 @@ seo:
       relativeUrl: true
 layout: post
 ---
-
-
 # Al via Colora il Natale, seconda edizione: e vinca il (decoro) migliore!
 
-Luci, personaggi, addobbi, colori e creatività: questi gli ingredienti necessari per partecipare a* Colora Il Natale*, concorso organizzato da ProLoco San Vincenzo e che premia, in diverse categorie, le più belle decorazioni delle feste per il Natale 2021. 
+Luci, personaggi, addobbi, colori e creatività: questi gli ingredienti necessari per partecipare a\* Colora Il Natale\*, concorso organizzato da ProLoco San Vincenzo e che premia, in diverse categorie, le più belle decorazioni delle feste per il Natale 2021. 
 
 #  Pronti, via!
 
 Si parte il 4 dicembre, data in cui potete iniziare a inviare al cellulare della ProLoco (3202728172) come spiegato nel regolamento (lo
-trovate al *link* o inquadrando il QR code della locandina) le foto delle decorazioni di balconi, giardini, finestre, portoni di case e
+trovate qui al [*link*](https://www.prolocosanvincenzo.com/coloriamoilnatale/) o inquadrando il QR code della locandina) le foto delle decorazioni di balconi, giardini, finestre, portoni di case e
 vetrine di attività commerciali e anche di intere vie, perché proprio partecipando tutti, ognuno col proprio stile e la propria fantasia, si crea
 quell’autentica aria di festa e condivisione tipica del Natale.
 
