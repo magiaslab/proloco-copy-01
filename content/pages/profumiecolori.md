@@ -4,7 +4,11 @@ subtitle: 'Un aranceto in piazza: il 4 dicembre l’evento Profumi e Colori'
 image_alt: Profumi e Colori ProLoco San Vincenzo
 seo:
   title: Profumi e Colori ProLoco San Vincenzo
-  description: ''
+  description: >-
+    L’evento dal nome Profumi e Colori, organizzato da ProLoco, inaugura il
+    Verde Dicembre del Comune di San Vincenzo, ed è il primo progetto di
+    riqualificazione “green” di spazi urbani, a cui seguiranno nel tempo altri
+    interventi in altre aree. 
   robots: []
   extra: []
 layout: page
