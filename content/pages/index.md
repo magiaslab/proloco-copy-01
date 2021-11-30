@@ -42,7 +42,7 @@ sections:
           per offrire ai nostri ospiti ed ai nostri cittadini un territorio
           sempre più bello da esplorare e da vivere
         actions:
-          - label: Learn More
+          - label: Attività
             url: /features
             style: secondary
             has_icon: true
