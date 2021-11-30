@@ -7,35 +7,47 @@ excerpt: >-
   interventi in altre aree. 
 author: content/data/authors/jane-doe.yaml
 date: '2020-11-22'
-thumb_image: images/9_thumb.jpg
+thumb_image: /images/c.jpegoloriamoilnatale-64c782ad.jpeg
 thumb_image_alt: 'Profumi e colori '
 image: /images/c.jpegoloriamoilnatale-35f57204.jpeg
 image_alt: People in a conference room
 seo:
-  title: The Advantages and Disadvantages of Working from Home
-  description: A tale about advantages and disadvantages of working from home
+  title: Profumi e Colori ProLoco San Vincenzo
+  description: >-
+    L’evento dal nome Profumi e Colori, organizzato da ProLoco, inaugura il
+    Verde Dicembre del Comune di San Vincenzo, ed è il primo progetto di
+    riqualificazione “green” di spazi urbani, a cui seguiranno nel tempo altri
+    interventi in altre aree.
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: The Advantages and Disadvantages of Working from Home
+      value: Profumi e Colori ProLoco San Vincenzo
       keyName: property
     - name: 'og:description'
-      value: A tale about advantages and disadvantages of working from home
+      value: >-
+        L’evento dal nome Profumi e Colori, organizzato da ProLoco, inaugura il
+        Verde Dicembre del Comune di San Vincenzo, ed è il primo progetto di
+        riqualificazione “green” di spazi urbani, a cui seguiranno nel tempo
+        altri interventi in altre aree.
       keyName: property
     - name: 'og:image'
-      value: images/9.jpg
+      value: /images/c.jpegoloriamoilnatale-64c782ad.jpeg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: The Advantages and Disadvantages of Working from Home
+      value: Profumi e Colori ProLoco San Vincenzo
     - name: 'twitter:description'
-      value: A tale about advantages and disadvantages of working from home
+      value: >-
+        L’evento dal nome Profumi e Colori, organizzato da ProLoco, inaugura il
+        Verde Dicembre del Comune di San Vincenzo, ed è il primo progetto di
+        riqualificazione “green” di spazi urbani, a cui seguiranno nel tempo
+        altri interventi in altre aree.
     - name: 'twitter:image'
-      value: images/9.jpg
+      value: /images/c.jpegoloriamoilnatale-64c782ad.jpeg
       relativeUrl: true
 layout: post
 subtitle: Progetto di riqualificazione urbana
