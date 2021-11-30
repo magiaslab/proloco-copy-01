@@ -27,7 +27,7 @@ sections:
           Le ProLoco in Italia promuovono il turismo e il territorio
           coinvolgendo cittadini e associazioni in attività e progetti
         actions:
-          - label: Learn More
+          - label: Scopri di più
             url: /features
             style: secondary
             has_icon: true
