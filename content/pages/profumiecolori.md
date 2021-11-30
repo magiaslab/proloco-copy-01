@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Profumi e Colori
 subtitle: lorem-ipsum
 image_alt: lorem-ipsum
 seo:
