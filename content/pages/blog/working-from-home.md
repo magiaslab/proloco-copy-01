@@ -43,7 +43,7 @@ seo:
     - name: 'twitter:description'
       value: A tale about advantages and disadvantages of working from home
     - name: 'twitter:image'
-      value: images/9.jpg
+      value: /images/c.jpegoloriamoilnatale-64c782ad.jpeg
       relativeUrl: true
 layout: post
 subtitle: Progetto di riqualificazione urbana
