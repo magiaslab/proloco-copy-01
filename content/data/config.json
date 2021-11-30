@@ -1,7 +1,7 @@
 {
     "title": "ProLoco San Vincenzo",
     "path_prefix": "/",
-    "base_font": "nunito-sans",
+    "base_font": "system-sans",
     "palette": "blue",
     "header": {
         "logo_img": "/images/Risorsa 3.png",

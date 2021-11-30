@@ -27,7 +27,7 @@ sections:
           Le ProLoco in Italia promuovono il turismo e il territorio
           coinvolgendo cittadini e associazioni in attività e progetti
         actions:
-          - label: Learn More
+          - label: Scopri di più
             url: /features
             style: secondary
             has_icon: true
@@ -42,7 +42,7 @@ sections:
           per offrire ai nostri ospiti ed ai nostri cittadini un territorio
           sempre più bello da esplorare e da vivere
         actions:
-          - label: Learn More
+          - label: Attività
             url: /features
             style: secondary
             has_icon: true
@@ -58,7 +58,7 @@ sections:
 
           ![](/images/400x200.png)
         actions:
-          - label: Learn More
+          - label: San Vincenzo
             url: /features
             style: secondary
             has_icon: true
@@ -75,7 +75,7 @@ sections:
   - section_id: recent-posts
     type: section_posts
     background: gray
-    title: News e attività
+    title: News Attività e Progetti
 seo:
   title: Proloco San Vincenzo
   description: >-
