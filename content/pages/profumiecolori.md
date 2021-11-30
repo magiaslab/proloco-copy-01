@@ -1,6 +1,6 @@
 ---
 title: Profumi e Colori
-subtitle: lorem-ipsum
+subtitle: 'Un aranceto in piazza: il 4 dicembre l’evento Profumi e Colori'
 image_alt: lorem-ipsum
 seo:
   title: ''
