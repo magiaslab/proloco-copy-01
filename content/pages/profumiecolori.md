@@ -8,6 +8,7 @@ seo:
   robots: []
   extra: []
 layout: page
+image: /images/c.jpegoloriamoilnatale.jpeg
 ---
 29 piante di arancio amaro sono in arrivo in piazza Unità d’Italia, e così dal 4 dicembre la piazza diventerà un aranceto di fronte al mare, con aromi e colori sempre diversi col mutare delle stagioni. 
 
