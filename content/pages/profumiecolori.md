@@ -10,7 +10,11 @@ seo:
     riqualificazione “green” di spazi urbani, a cui seguiranno nel tempo altri
     interventi in altre aree. 
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: /images/c.jpegoloriamoilnatale-fdf22134.jpeg
+      keyName: property
+      relativeUrl: true
 layout: page
 image: /images/c.jpegoloriamoilnatale.jpeg
 ---
