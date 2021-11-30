@@ -7,7 +7,7 @@ excerpt: >-
   interventi in altre aree. 
 author: content/data/authors/jane-doe.yaml
 date: '2020-11-22'
-thumb_image: images/9_thumb.jpg
+thumb_image: /images/c.jpegoloriamoilnatale-64c782ad.jpeg
 thumb_image_alt: 'Profumi e colori '
 image: /images/c.jpegoloriamoilnatale-35f57204.jpeg
 image_alt: People in a conference room
