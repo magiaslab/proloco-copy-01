@@ -29,7 +29,7 @@ seo:
       value: A tale about advantages and disadvantages of working from home
       keyName: property
     - name: 'og:image'
-      value: images/9.jpg
+      value: /images/c.jpegoloriamoilnatale-64c782ad.jpeg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
