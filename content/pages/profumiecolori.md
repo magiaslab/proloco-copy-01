@@ -1,13 +1,22 @@
 ---
 title: Profumi e Colori
 subtitle: 'Un aranceto in piazza: il 4 dicembre l’evento Profumi e Colori'
-image_alt: lorem-ipsum
+image_alt: Profumi e Colori ProLoco San Vincenzo
 seo:
-  title: ''
-  description: ''
+  title: Profumi e Colori ProLoco San Vincenzo
+  description: >-
+    L’evento dal nome Profumi e Colori, organizzato da ProLoco, inaugura il
+    Verde Dicembre del Comune di San Vincenzo, ed è il primo progetto di
+    riqualificazione “green” di spazi urbani, a cui seguiranno nel tempo altri
+    interventi in altre aree. 
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: /images/c.jpegoloriamoilnatale-fdf22134.jpeg
+      keyName: property
+      relativeUrl: true
 layout: page
+image: /images/c.jpegoloriamoilnatale.jpeg
 ---
 29 piante di arancio amaro sono in arrivo in piazza Unità d’Italia, e così dal 4 dicembre la piazza diventerà un aranceto di fronte al mare, con aromi e colori sempre diversi col mutare delle stagioni. 
 
