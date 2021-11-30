@@ -41,7 +41,11 @@ seo:
     - name: 'twitter:title'
       value: Profumi e Colori ProLoco San Vincenzo
     - name: 'twitter:description'
-      value: A tale about advantages and disadvantages of working from home
+      value: >-
+        L’evento dal nome Profumi e Colori, organizzato da ProLoco, inaugura il
+        Verde Dicembre del Comune di San Vincenzo, ed è il primo progetto di
+        riqualificazione “green” di spazi urbani, a cui seguiranno nel tempo
+        altri interventi in altre aree.
     - name: 'twitter:image'
       value: /images/c.jpegoloriamoilnatale-64c782ad.jpeg
       relativeUrl: true
