@@ -12,7 +12,7 @@ thumb_image_alt: 'Profumi e colori '
 image: /images/c.jpegoloriamoilnatale-35f57204.jpeg
 image_alt: People in a conference room
 seo:
-  title: The Advantages and Disadvantages of Working from Home
+  title: Profumi e Colori ProLoco San Vincenzo
   description: A tale about advantages and disadvantages of working from home
   extra:
     - name: 'og:type'
