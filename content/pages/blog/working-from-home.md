@@ -13,7 +13,11 @@ image: /images/c.jpegoloriamoilnatale-35f57204.jpeg
 image_alt: People in a conference room
 seo:
   title: Profumi e Colori ProLoco San Vincenzo
-  description: A tale about advantages and disadvantages of working from home
+  description: >-
+    L’evento dal nome Profumi e Colori, organizzato da ProLoco, inaugura il
+    Verde Dicembre del Comune di San Vincenzo, ed è il primo progetto di
+    riqualificazione “green” di spazi urbani, a cui seguiranno nel tempo altri
+    interventi in altre aree.
   extra:
     - name: 'og:type'
       value: article
