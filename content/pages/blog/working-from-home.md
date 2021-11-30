@@ -39,7 +39,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: The Advantages and Disadvantages of Working from Home
+      value: Profumi e Colori ProLoco San Vincenzo
     - name: 'twitter:description'
       value: A tale about advantages and disadvantages of working from home
     - name: 'twitter:image'
