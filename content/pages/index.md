@@ -75,7 +75,7 @@ sections:
   - section_id: recent-posts
     type: section_posts
     background: gray
-    title: News e attività
+    title: News Attività e Progetti
 seo:
   title: Proloco San Vincenzo
   description: >-
