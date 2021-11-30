@@ -3,7 +3,7 @@ title: Profumi e Colori
 subtitle: 'Un aranceto in piazza: il 4 dicembre l’evento Profumi e Colori'
 image_alt: Profumi e Colori ProLoco San Vincenzo
 seo:
-  title: ''
+  title: Profumi e Colori ProLoco San Vincenzo
   description: ''
   robots: []
   extra: []
