@@ -1,8 +1,10 @@
 ---
 title: Profumi e Colori
 excerpt: >-
-  Work at home parent is an entrepreneur who works from home and integrates
-  parenting into his or her business activities.
+  L’evento dal nome Profumi e Colori, organizzato da ProLoco, inaugura il Verde
+  Dicembre del Comune di San Vincenzo, ed è il primo progetto di
+  riqualificazione “green” di spazi urbani, a cui seguiranno nel tempo altri
+  interventi in altre aree. 
 author: content/data/authors/jane-doe.yaml
 date: '2020-11-22'
 thumb_image: images/9_thumb.jpg
