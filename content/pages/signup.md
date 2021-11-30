@@ -1,8 +1,6 @@
 ---
 title: Iscriviti alla ProLoco
-subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
+subtitle: Diventa Socio della ProLoco tanti vantaggi e tante attività
 image: images/11.jpg
 image_alt: Office desk top view
 seo:
