@@ -1,13 +1,15 @@
 ---
-title: The Advantages and Disadvantages of Working from Home
+title: Profumi e Colori
 excerpt: >-
-  Work at home parent is an entrepreneur who works from home and integrates
-  parenting into his or her business activities.
+  L’evento dal nome Profumi e Colori, organizzato da ProLoco, inaugura il Verde
+  Dicembre del Comune di San Vincenzo, ed è il primo progetto di
+  riqualificazione “green” di spazi urbani, a cui seguiranno nel tempo altri
+  interventi in altre aree. 
 author: content/data/authors/jane-doe.yaml
-date: '2020-04-22'
+date: '2020-11-22'
 thumb_image: images/9_thumb.jpg
-thumb_image_alt: People in a conference room
-image: images/9.jpg
+thumb_image_alt: 'Profumi e colori '
+image: /images/c.jpegoloriamoilnatale-35f57204.jpeg
 image_alt: People in a conference room
 seo:
   title: The Advantages and Disadvantages of Working from Home
@@ -36,20 +38,33 @@ seo:
       value: images/9.jpg
       relativeUrl: true
 layout: post
+subtitle: Progetto di riqualificazione urbana
 ---
+29 piante di arancio amaro sono in arrivo in piazza Unità d’Italia, e così dal 4 dicembre la piazza diventerà un aranceto di fronte al mare, con aromi e colori sempre diversi col mutare delle stagioni. 
 
-**Working from home** convallis aenean et tortor at risus viverra adipiscing at in. Maecenas accumsan lacus vel facilisis volutpat est. Nisl suscipit adipiscing bibendum est ultricies. Nulla facilisi cras fermentum odio eu feugiat pretium. Donec ac odio tempor orci dapibus. Eget velit aliquet sagittis id. Morbi non arcu risus quis varius quam quisque id diam. Facilisis gravida neque convallis a cras semper auctor neque vitae. Diam phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet. Aliquam vestibulum morbi blandit cursus risus. Eget mauris pharetra et ultrices neque ornare.
+L’evento dal nome Profumi e Colori, organizzato da ProLoco, inaugura il Verde Dicembre del Comune di San Vincenzo, ed è il primo progetto di riqualificazione “green” di spazi urbani, a cui seguiranno nel tempo altri interventi in altre aree. 
 
-## Advantages and Disadvantages
+Il 4 pomeriggio, tra le 15 e le 21, la piazza sarà protagonista di diversi eventi che ruotano attorno a quello principale: la posa nelle fioriere delle piante di melàngolo - così è detto il Citrus x aurantium - che saranno contornate da cespugli aromatici di rosmarino prostrato per un
+effetto multisensoriale e sostenibile. 
 
-Dignissim diam quis enim lobortis scelerisque. Vitae elementum curabitur vitae nunc. Ultrices neque ornare aenean euismod elementum nisi quis eleifend quam. Et ligula ullamcorper malesuada proin libero nunc consequat interdum. Quam lacus suspendisse faucibus interdum posuere. Bibendum arcu vitae elementum curabitur vitae nunc. Ullamcorper malesuada proin libero nunc. Sit amet risus nullam eget felis eget nunc lobortis. Elementum curabitur vitae nunc sed velit dignissim sodales. Turpis in eu mi bibendum neque egestas congue quisque egestas.
+# Arancio e rosmarino
 
-> Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do. - Pele
+ Le piante non sono state infatti scelte a caso: il melàngolo, un antico ibrido originario del sud-est asiatico ma che da secoli cresce come specie autonoma anche in ambiente mediterraneo, è una pianta resistente a gelate e estati torride, ha foglie appuntite e lucide e a primavera si riempie di fiori bianchi e profumatissimi (da questi viene estratto il neroli, molto usato in profumeria).
 
-Fermentum iaculis eu non diam. Lorem sed risus ultricies tristique nulla aliquet enim tortor. Viverra nam libero justo laoreet sit amet cursus. Interdum consectetur libero id faucibus nisl tincidunt eget nullam. Aliquet sagittis id consectetur purus ut. Iaculis eu non diam phasellus. Ipsum dolor sit amet consectetur adipiscing elit duis. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate sapien nec. Dictum sit amet justo donec enim diam. Ultrices eros in cursus turpis massa tincidunt dui. Adipiscing elit ut aliquam purus sit.
+ 
 
-## Types Of Work
+Nelle giornate grigie d’inverno, la piazza brillerà di puntini dalla calda tonalità arancio, i frutti, che si prestano alla preparazione di marmellate e scorze candite, delizie che potrebbero diventare come l’olio, specialità locali. Il rosmarino, dai fiori violacei e l’aroma tipico mediterraneo, oltre a una facile gestione, garantisce anche una piazza più sana e profumata.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Felis donec et odio pellentesque diam volutpat. A diam maecenas sed enim ut sem viverra aliquet. Felis eget nunc lobortis mattis aliquam faucibus. Urna cursus eget nunc scelerisque viverra mauris. Pellentesque elit ullamcorper dignissim cras tincidunt lobortis. Ac tincidunt vitae semper quis lectus nulla at volutpat diam. Sapien faucibus et molestie ac feugiat sed lectus vestibulum. Ac turpis egestas sed tempus urna et pharetra pharetra massa. Vitae semper quis lectus nulla. Velit sed ullamcorper morbi tincidunt ornare. A arcu cursus vitae congue mauris. Amet nulla facilisi morbi tempus iaculis urna.
+ 
 
-Fermentum iaculis eu non diam. Lorem sed risus ultricies tristique nulla aliquet enim tortor. Viverra nam libero justo laoreet sit amet cursus. Interdum consectetur libero id faucibus nisl tincidunt eget nullam. Aliquet sagittis id consectetur purus ut. Iaculis eu non diam phasellus. Ipsum dolor sit amet consectetur adipiscing elit duis. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate sapien nec. Dictum sit amet justo donec enim diam. Ultrices eros in cursus turpis massa tincidunt dui. Adipiscing elit ut aliquam purus sit.
+# Da comprare e da gustare
+
+La messa a dimora delle piante sarà “suggellata” dall’inaugurazione ufficiale da parte della giunta comunale, e circondata da intrattenimenti adatti a tutte le età e molte delizie da comprare o da gustare: la ProLoco sarà presente con il gazebo in cui assaggiare bruschette con olio
+locale e crema di ceci; gli Scout di San Vincenzo offriranno i loro biscotti appena sfornati. Ma ci saranno anche Il Gusto Mobile, per ricette creative a base di pesce, e il gelato di Gianna Tutta Panna; per uno shopping sano e locale, l’Orto Barbadoro e l’azienda Lugudoro porteranno i frutti della loro produzione, rispettivamente frutta e verdura e olio da olivicolutra biologica. E per trovare qualcosa di curioso (magari da regalare a Natale), ci saranno le bancarelle del Caravanserraglio. 
+
+# Due e quattro ruote (con tavola e no)
+
+Se avete voglia di azione e motori, la giornata propone diversi spunti curiosi: il vespa Club San Vincenzo metterà in piazza i mezzi storici più interessanti, mentre su una pista montata per l’occasione, si potranno guidare mini quad elettrici, grazie alla partecipazione di Tutun Club
+che curerà anche lo Skate Park: due “onde” trasferite sulla piazza saranno disponibili per provare gli skate con l’aiuto di istruttori professionisti e
+mettere alla prova la vostra abilità. Non ve la sentite di salire sula tavola?
+I drink e la musica a cura di Jungle Board e Tram1731 forniranno una più che allettante alternativa.
