@@ -58,7 +58,7 @@ sections:
 
           ![](/images/400x200.png)
         actions:
-          - label: Learn More
+          - label: San Vincenzo
             url: /features
             style: secondary
             has_icon: true
