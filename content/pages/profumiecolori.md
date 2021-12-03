@@ -47,4 +47,15 @@ che curerà anche lo Skate Park: due “onde” trasferite sulla piazza saranno 
 mettere alla prova la vostra abilità. Non ve la sentite di salire sula tavola?
 I drink e la musica a cura di Jungle Board e Tram1731 forniranno una più che allettante alternativa.
 
+
+
+# Trattamenti
+
+Piante Trattate con Polygreen®️ un polimero idro-retentore ecologico e registrato al Ministero delle politiche agricole alimentari e forestali, messo a punto e prodotto a Livorno. Trattiene l'acqua e la rilascia lentamente. Interrato vicino all'impianto radicale di ogni pianta, funziona come una spugna in grado di assorbire l'acqua quando piove o durante le annaffiature e la cede nei periodi di siccità.
+In questo modo la pianta non subisce sbalzi dovuti alla troppa o poca acqua, cresce meglio e voi non sprecate acqua, risparmiando circa il 50% e allungando i tempi tra un'innaffiatura e l'altra e non rischiate che le coltivazioni arboree e agricole muoiano per il ridotto apporto idrico.
+
+Per acquistarlo e ricevere maggiori informazioni contattate Nest srl a Livorno - tel. 0586 424296 info@nestsrl.it <https://nestsrl.it/polygreen/>
+
+![](/images/WhatsApp%20Image%202021-12-02%20at%2018.39.47.jpeg)
+
  
