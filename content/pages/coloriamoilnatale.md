@@ -20,11 +20,9 @@ layout: page
 
 *   data di inizio concorso: 04 Dicembre 2021
 
-*   data di fine concorso: 20 Dicembre 2021
+*   data di fine concorso: 25 Dicembre 2021
 
-*    data premiazione: 23 Dicembre 2021
-
-
+*    data premiazione: 2 Gennaio 2022
 
 ## **MODALITA’ DI PARTECIPAZIONE:**
 
@@ -48,7 +46,7 @@ Le **CATEGORIE** previste sono:
 
 *   CASA
 
-*   VIA 
+*   VIA
 
 *   IL PIU’ AMATO DAI SOCIAL
 
