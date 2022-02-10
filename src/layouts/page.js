@@ -29,7 +29,7 @@ export class Page extends React.Component {
                                     <img src={withPrefix(image)} alt={imageAlt} />
                                 </div>
                             )}
-                            {markdownContent && }
+                            {markdownContent && <div className="post-content">{markdownify(markdownContent)}</div>}
                             </article>
                     </div>
                 </div>
