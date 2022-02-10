@@ -1,5 +1,5 @@
 import landing from './landing';
-import page from './page';
+import { Page as page } from './page';
 import blog from './blog';
 import post from './post';
 

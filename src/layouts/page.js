@@ -4,7 +4,7 @@ import _ from 'lodash';
 import { Layout } from '../components/index';
 import { htmlToReact, withPrefix, markdownify } from '../utils';
 
-export default class Page extends React.Component {
+export class Page extends React.Component {
     render() {
         const page = _.get(this.props, 'page');
         const data = _.get(this.props, 'data');
@@ -29,8 +29,8 @@ export default class Page extends React.Component {
                                     <img src={withPrefix(image)} alt={imageAlt} />
                                 </div>
                             )}
-                            {markdownContent && }
-                        </article>
+                            {markdownContent && <div className="post-content">{markdownify(markdownContent)}</div>}
+                            </article>
                     </div>
                 </div>
             </Layout>
