@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: San Vincenzo Lavora
 subtitle: lorem-ipsum
 image_alt: lorem-ipsum
 seo:
