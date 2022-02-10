@@ -9,7 +9,7 @@ seo:
   extra: []
 layout: page
 ---
-\<script type="text/javascript" src="https://form.jotform.com/jsform/220406529276052">\</script>
+<script type="text/javascript" src="https://form.jotform.com/jsform/220406529276052">\</script>
 
 > Vestibulum ullamcorper risus auctor eleifend consequat.
 
