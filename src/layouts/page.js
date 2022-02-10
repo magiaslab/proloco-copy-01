@@ -29,7 +29,7 @@ export default class Page extends React.Component {
                                     <img src={withPrefix(image)} alt={imageAlt} />
                                 </div>
                             )}
-                            {markdownContent && };
+                            {markdownContent && }
                         </article>
                     </div>
                 </div>
