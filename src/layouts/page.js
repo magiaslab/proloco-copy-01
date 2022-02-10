@@ -30,7 +30,7 @@ export class Page extends React.Component {
                                 </div>
                             )}
                             {markdownContent && }
-                            
+
                         </article>
                     </div>
                 </div>
